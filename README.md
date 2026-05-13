@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Metrics](/github-metrics.svg)
+
+<!--
 ![how2learn](how2learn.png)
+-->
