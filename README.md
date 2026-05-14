@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **xin-huang/xin-huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![Metrics](/github-metrics.svg)
+
+![AniList](/metrics.plugin.anilist.svg)
 
 <!--
 ![how2learn](how2learn.png)
