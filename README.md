@@ -17,16 +17,10 @@ Here are some ideas to get you started:
 
 ![Profile views](https://komarev.com/ghpvc/?username=xin-huang)
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="/github-metrics.svg" alt="GitHub metrics" width="100%">
-    </td>
-    <td width="50%" align="center">
-      <img src="/metrics.plugin.anilist.svg" alt="AniList" width="100%">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="/github-metrics.svg" alt="GitHub metrics" width="49%">
+  <img src="/metrics.plugin.anilist.svg" alt="AniList" width="49%">
+</p>
 
 <!--
 ![how2learn](how2learn.png)
