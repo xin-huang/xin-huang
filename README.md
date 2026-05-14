@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   <img src="/metrics.plugin.anilist.svg" alt="AniList" width="49%">
 </p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=xin-huang&theme=flat&no-frame=true&row=1)
+
 <!--
 ![how2learn](how2learn.png)
 -->
