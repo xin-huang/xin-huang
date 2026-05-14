@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Profile views](https://komarev.com/ghpvc/?username=xin-huang)
+
 ![Metrics](/github-metrics.svg)
 
 ![AniList](/metrics.plugin.anilist.svg)
