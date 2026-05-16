@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="right">
-  <img src="https://count.getloli.com/@xin-huang?name=xin-huang&theme=booru-mjg&padding=13&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" alt="Profile views" width="49%">
-  <br>
-  <sub><i>掘尾龍，起勢攻，大四喜揸曬南北西東。</i></sub>
+  <img src="https://count.getloli.com/@xin-huang?name=xin-huang&theme=miku&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" alt="Profile views" width="29%">
 </p>
 
 <p align="center">
