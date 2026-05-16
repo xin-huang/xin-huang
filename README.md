@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="right">
-  <img src="https://count.getloli.com/@xin-huang?name=xin-huang&theme=booru-mjg&padding=13&offset=0&align=center&scale=0.45&pixelated=0&darkmode=auto" alt="Profile views">
+  <img src="https://count.getloli.com/@xin-huang?name=xin-huang&theme=booru-mjg&padding=13&offset=0&align=center&scale=0.45&pixelated=0&darkmode=auto" alt="Profile views" width="49%">
 </p>
 
 <p align="center">
