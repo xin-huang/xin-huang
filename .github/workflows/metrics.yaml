@@ -11,12 +11,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: general
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-          
-      - uses: lowlighter/metrics@latest
+
+      - name: anilist
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.anilist.svg
           token: NOT_NEEDED
@@ -27,3 +29,13 @@ jobs:
           plugin_anilist_sections: favorites
           plugin_anilist_limit: 3
           plugin_anilist_shuffle: no
+
+      - name: achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
