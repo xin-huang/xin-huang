@@ -25,8 +25,14 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+  <img src="/metrics.plugin.achievements.svg" alt="GitHub achievements" width="49%">
+</p>
+
+<!--
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=xin-huang&theme=flat&no-frame=true&row=1" alt="Trophy">
 </p>
+-->
 
 <!--
 ![how2learn](how2learn.png)
