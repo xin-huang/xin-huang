@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="/metrics.plugin.achievements.svg" alt="GitHub achievements" width="49%">
+  <img src="/metrics.plugin.habits.svg" alt="Coding habits" width="98%">
 </p>
 
 <!--
