@@ -24,6 +24,10 @@ Here are some ideas to get you started:
   <img src="/metrics.plugin.anilist.svg" alt="AniList" width="49%">
 </p>
 
+<p align="center">
+  <img src="/exhortation2learning.png" alt="Quan Xue" width="100%">
+</p>
+
 <!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=xin-huang&theme=flat&no-frame=true&row=1" alt="Trophy">
