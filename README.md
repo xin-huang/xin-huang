@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://ctext.org/xunzi/quan-xue/">
+  <a href="https://ctext.org/xunzi/quan-xue/" target="_blank">
     <img src="/exhortation2learning.png" alt="Quan Xue" width="100%">
   </a>
 </p>
