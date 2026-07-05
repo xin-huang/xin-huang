@@ -12,7 +12,3 @@
     <img src="/exhortation2learning.png" alt="Quan Xue" width="100%">
   </a>
 </p>
-
-<!--
-![how2learn](how2learn.png)
--->
